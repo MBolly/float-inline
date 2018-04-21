@@ -1,0 +1,25 @@
+div{
+  width: 33.33%;
+  height: 300px;
+  float: left;
+  background-color: #f2960c
+}
+
+div > img {
+  display: block;
+  width: 100%
+}
+.uno{
+  width: 25%;
+  background-color: rgb(125, 224, 129);
+}
+
+.dos{
+  width: 35%;
+  background-color: rgb(49, 201, 77);
+}
+
+.tres{
+  width: 40%;
+  background-color: rgb(33, 133, 21);
+}
